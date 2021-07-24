@@ -1,4 +1,4 @@
 --fix later
 --7144003450
 --require(rbxassetid://7144003450).x()
-require(7144003450).MainModule()
+require(7144003450).MainModule("7hQ_vader")
