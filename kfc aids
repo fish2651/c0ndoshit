@@ -1,3 +1,4 @@
 --fix later
 --7144003450
-require(rbxassetid://7144003450).x()
+--require(rbxassetid://7144003450).x()
+require(7144003450).MainModule()
